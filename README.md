@@ -1,7 +1,6 @@
-## Summary ##
-Demonstrates the rate at which colored fonts can be produced on the fly.
+## Impact Font Sugar Benchmark ##
 
-[Demo](http://commins.ca/impact-font-color-test/)
+#### Some speed benchmarks for my [ImpactJS Font Sugar plugin](https://github.com/Joncom/impact-font-sugar). ####
 
 ## Installation ##
 
