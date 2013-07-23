@@ -1,0 +1,3 @@
+[submodule "lib/plugins/joncom/font-sugar"]
+	path = lib/plugins/joncom/font-sugar
+	url = git@github.com:Joncom/impact-font-sugar.git
